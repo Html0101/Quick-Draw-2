@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(rgb(224, 66, 66),blue,rgb(147, 97, 255));
+}
+#Score{
+    font-size: 28px;
+    float: left;
+    margin-left: 100px;
+}
+#Timer{
+    font-size: 28px;
+    float: right;
+    margin-right: 100px;
+}
+#sketchToBeDrawn{
+    color: whitesmoke;
+}
